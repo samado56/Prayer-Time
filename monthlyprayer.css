@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background-image: url('paryerbackground.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-family:   Helvetica, sans-serif;
+}
+
+.parent{
+
+    height: 120vh;
+}
